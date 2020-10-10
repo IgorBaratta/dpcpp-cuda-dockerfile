@@ -1,2 +1,2 @@
 # dpcpp-cuda-dockerfile
-Dockerfile for using dpcpp with cuda
+Dockerfile for using and testing dpcpp with cuda
